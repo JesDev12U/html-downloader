@@ -1,0 +1,16 @@
+{
+  "name": "htmldownloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jesus Antonio Lopez Bandala",
+  "license": "MIT",
+  "description": "HTML Downloader",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
